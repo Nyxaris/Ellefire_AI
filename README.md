@@ -1,13 +1,14 @@
 # Nyx_AI
 Copyright [2023] [Nyxaris]
 
-Лицензируется по лицензии, GNU General Public License v3.0 (далее "Лицензия");
-вы не имеете права использовать этот файл, кроме как в соответствии с лицензией.
-Вы можете получить копию лицензии по адресу
+Licensed under the GNU General Public License, Version 3.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
- https://github.com/Nyxaris/Nyx_AI/blob/main/LICENSE
+https://github.com/Nyxaris/Nyx_AI/blob/main/LICENSE
 
-Если это не требуется применимым законодательством или не согласовано в письменной форме, программное
-обеспечение, распространяемое по лицензии, распространяется на УСЛОВИЯХ "КАК ЕСТЬ",
-БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ ИЛИ УСЛОВИЙ, явных или подразумеваемых.
-Смотрите Лицензию для конкретного языка, регулирующего разрешения и ограничения в соответствии с лицензией.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
